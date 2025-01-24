@@ -1,0 +1,39 @@
+body {
+    font-family: monospace;
+    background-image: url(https://cbdia.eu/cdn/shop/files/cali-weed-kaufen.jpg?v=1712732908&width=1920)
+  }
+  fieldset {
+    height: 80vh;
+    width: 80vw;
+    max-width: 800px;
+    min-width: 300px;
+    margin: auto;
+    padding-bottom: 15em;
+    background-image: url(https://www.billboard.com/wp-content/uploads/2024/04/weed-stoner-songs-billboard-1548.jpg?w=942&h=623&crop=1&resize=942%2C623);
+    background-size: cover;
+    
+  }
+  h1, p {
+    margin: 1em auto;
+    text-align: center;
+  }
+  input {
+    height: 20px;
+  }
+  label {
+    display: block;
+    margin: 0.5rem 0;
+    text-align: center;
+  }
+  input[type="submit"] {
+    height: 60px;
+    width: 100px;
+    font-size: 22px;
+    display: block;
+    margin: auto;
+    background-color: #557b2f;
+    color: white; 
+  }
+  .textarea {
+    display: center;
+  }

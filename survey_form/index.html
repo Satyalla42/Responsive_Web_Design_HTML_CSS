@@ -1,0 +1,51 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+  <meta charset="UTF-8">
+  <title>Survey Form</title>
+  <link href="./styles.css" rel="stylesheet">
+</head>
+ <body>
+   <fieldset>
+   <h1 id="title">What is the best marijuana strain? 
+   </h1>
+ <p id="description">We appreciate you sharing your opinion!</p>
+ <form id="survey-form" method="post">
+   <label for="name" id="name-label">Please enter your Name
+    <input type="text" id="name" name="name" placeholder="Name" required>
+</label>
+   <label for="email-label" id="email-label">What is your email address?
+   <input for="email" id="email" type="email" placeholder="smokelord@icloud.com" required>
+   </label>
+   <p>Since how many years do you smoke weed?</p>
+   <label for=""number-label" id="number-label">Years
+   <input id="number" type="number" min="1" max="99" placeholder="99">
+   </label>
+    <label for="location">What is your preferred location to get baked?
+   <select id="dropdown">
+     <option>Outside in the sun</option>
+     <option>On my couch</option>
+     <option>Coffe shops/ social clubs</option>
+     <option>All of them</option>
+   </select>
+   </label>
+   <label for="Indica/Sativa">Do you prefer Indica or Sativa?
+   <input id="name" type="radio" name="Indica/Sativa" value="Indica">Indica
+   <input id="name" type="radio" name="Indica/Sativa" value="sativa" checked>Sativa
+   </label>
+   <div>
+     <label for="marihuana-strain">Which marijuana strain is the best?</p>
+   <input type="checkbox" value="White Widow">White Widow
+   <input type="checkbox" value="Amnesia Haze">Amnesia Haze
+   <input type="checkbox" value="Amnesia Haze">Amnesia Haze
+   <input type="checkbox" value="Northern Lights">Northern Lights
+   <input type="checkbox" value="Blue Dream">Blue Dream
+   <input type="checkbox" value="OG Kush">OG Kush
+   </label>
+   </div>
+   <textarea>addittional comments</textarea>
+   <input type="submit" value="Submit" id="submit">
+   </fieldset>
+  </form>
+ </body>
+</html>
