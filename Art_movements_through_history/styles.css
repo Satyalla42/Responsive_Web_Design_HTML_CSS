@@ -52,12 +52,9 @@ html {
       background-color: lightblue;
       font-size: 14px;
     }
-   ul {
-    font-family: inherit; /* Inherits the font from body or a parent */
-    font-size: 1rem; /* Optional: Adjust size if needed */
+}
+  ul {
+    font-family: inherit; 
+    font-size: 1rem; 
   }
   
-  ul {
-    font-family: inherit; /* 
-    font-size: 1rem; /* 
-  }
