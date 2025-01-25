@@ -1,4 +1,4 @@
-@media (max-width: 75em) {
+@media (max-width: 750em) {
   header {
     flex-direction: column;
     align-items: flex-start;
