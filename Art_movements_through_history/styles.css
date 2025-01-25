@@ -1,0 +1,63 @@
+html {
+    color: white;
+    font: bold;
+  }
+  body {
+      font-family: arial;
+      background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJDd0HzlUHYCM-FOoRoSe_km1O75e_JlTQsQ&s");
+      background-size: cover;
+         margin: 0; 
+      height: 100vh;
+  }
+  
+      
+  p, ul {
+      font-size: 12px;
+      line-height: 1;
+  }
+  
+    #navbar {
+    position: fixed; 
+    top: 0;
+    left: 0;
+    width: 180px;
+    height: 100%; 
+    background-color: rgba(191, 136, 235, 0.8);
+    padding: 25px;
+    line-height: 1.8;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    font-family: Georgia;
+    font-style: italic; 
+  }
+  #navbar p, #navbar ul {
+      font-size: 18px !important; 
+      line-height: 1.3;
+      
+  }
+  .first-word {
+      font-weight: bold;
+  }
+  #main-doc {
+    margin-left: 280px;
+    padding: 20px;
+    margin-top: 50px;
+  }
+  header {
+    font-family: Georgia;
+    font-style: italic; 
+  }
+  @media (max-width: 600px) {
+    body {
+      background-color: lightblue;
+      font-size: 14px;
+    }
+   ul {
+    font-family: inherit; /* Inherits the font from body or a parent */
+    font-size: 1rem; /* Optional: Adjust size if needed */
+  }
+  
+  ul {
+    font-family: inherit; /* 
+    font-size: 1rem; /* 
+  }
