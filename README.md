@@ -1,4 +1,11 @@
-# CERTIFICATE HTML/CSS - 300 hours
+🏅 Responsive Web Design Certification – freeCodeCamp
 
-I gained the Responsive Web Design certificate on freecodecamp.org which gave me first insights into the coding world. I proudly represent my final projects. 
-https://www.freecodecamp.org/certification/Satyalla/responsive-web-design
+This certification demonstrates proficiency in building modern, responsive websites using HTML and CSS. Key skills include:
+
+- Creating structured, semantic HTML for accessibility and readability
+- Styling layouts with CSS, including Flexbox and Grid
+- Building responsive designs that adapt to different screen sizes
+- Implementing user-friendly forms and navigation components
+- Applying design principles to create visually appealing web pages
+
+The certification includes hands-on projects such as a product landing page, technical documentation site, and personal portfolio webpage—proving practical knowledge of front-end web development.
